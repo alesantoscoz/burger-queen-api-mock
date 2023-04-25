@@ -101,7 +101,7 @@
       "id": 5,
       "name": "Hamburguesa simple",
       "price": 10,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/patriciact29/burger-queen-api-mock/main/resources/images/hamburguesa_simple.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -109,7 +109,7 @@
       "id": 6,
       "name": "Hamburguesa doble",
       "price": 15,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/patriciact29/burger-queen-api-mock/main/resources/images/hamburguesa_doble.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -117,7 +117,7 @@
       "id": 7,
       "name": "Papas fritas",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/patriciact29/burger-queen-api-mock/main/resources/images/papas_fritas.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -125,7 +125,7 @@
       "id": 8,
       "name": "Aros de cebolla",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/patriciact29/burger-queen-api-mock/main/resources/images/aros_de_cebolla.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -149,7 +149,7 @@
       "id": 11,
       "name": "Bebida/gaseosa 500ml",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/patriciact29/burger-queen-api-mock/main/resources/images/gaseosa.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -157,7 +157,7 @@
       "id": 12,
       "name": "Bebida/gaseosa 750ml",
       "price": 10,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/patriciact29/burger-queen-api-mock/main/resources/images/gaseosa.png",
       "type": "Almuerzo",
       "dateEntry": "2022-03-05 15:14:10"
     }
