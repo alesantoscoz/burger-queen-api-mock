@@ -85,7 +85,7 @@
       "id": 3,
       "name": "Café con leche",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "image": "https://raw.githubusercontent.com/patriciact29/burger-queen-api-mock/main/resources/images/cafe_conLeche.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
