@@ -93,7 +93,7 @@
       "id": 4,
       "name": "Jugo de frutas natural",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/patriciact29/burger-queen-api-mock/main/resources/images/jugo_de_frutas.png",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
